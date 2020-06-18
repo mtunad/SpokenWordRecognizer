@@ -1,5 +1,5 @@
 # Spoken Digit Recognizer
-![3](https://user-images.githubusercontent.com/15094113/84998844-0a39fe80-b159-11ea-8670-75cef0838a4e.png)
+![a screenshot of the program in cli](https://user-images.githubusercontent.com/15094113/84998844-0a39fe80-b159-11ea-8670-75cef0838a4e.png)
 
 ## Getting Started
 
@@ -44,8 +44,6 @@ python record.py
 ## Running
 
 #TODO: Explain how to run
-
-### Break down into end to end tests
 
 ## Built With
 
