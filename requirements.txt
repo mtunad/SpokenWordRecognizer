@@ -1,5 +1,5 @@
 Cython==0.29.7
-numpy==1.10.2
+numpy==1.21.0
 scikit-learn==0.16.1
 scipy==0.17.1
 ad3==2.2.1
